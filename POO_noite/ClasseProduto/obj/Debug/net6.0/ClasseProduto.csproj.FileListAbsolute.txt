@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\ClasseProduto\bin\Debug\net6.0\ClasseProduto.exe
+D:\Documents\POO\POO_noite\ClasseProduto\bin\Debug\net6.0\ClasseProduto.deps.json
+D:\Documents\POO\POO_noite\ClasseProduto\bin\Debug\net6.0\ClasseProduto.runtimeconfig.json
+D:\Documents\POO\POO_noite\ClasseProduto\bin\Debug\net6.0\ClasseProduto.dll
+D:\Documents\POO\POO_noite\ClasseProduto\bin\Debug\net6.0\ClasseProduto.pdb
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.dll
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\refint\ClasseProduto.dll
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.pdb
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ClasseProduto.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\ClasseProduto\obj\Debug\net6.0\ref\ClasseProduto.dll

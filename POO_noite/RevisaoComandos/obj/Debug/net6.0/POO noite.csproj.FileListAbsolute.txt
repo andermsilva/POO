@@ -1,0 +1,15 @@
+L:\Disciplinas\POO_noite\POO noite\bin\Debug\net6.0\POO noite.exe
+L:\Disciplinas\POO_noite\POO noite\bin\Debug\net6.0\POO noite.deps.json
+L:\Disciplinas\POO_noite\POO noite\bin\Debug\net6.0\POO noite.runtimeconfig.json
+L:\Disciplinas\POO_noite\POO noite\bin\Debug\net6.0\POO noite.dll
+L:\Disciplinas\POO_noite\POO noite\bin\Debug\net6.0\POO noite.pdb
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.csproj.AssemblyReference.cache
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.GeneratedMSBuildEditorConfig.editorconfig
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.AssemblyInfoInputs.cache
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.AssemblyInfo.cs
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.csproj.CoreCompileInputs.cache
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.dll
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\refint\POO noite.dll
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.pdb
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\POO noite.genruntimeconfig.cache
+L:\Disciplinas\POO_noite\POO noite\obj\Debug\net6.0\ref\POO noite.dll

@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\ClasseConta\bin\Debug\net6.0\ClasseConta.exe
+D:\Documents\POO\POO_noite\ClasseConta\bin\Debug\net6.0\ClasseConta.deps.json
+D:\Documents\POO\POO_noite\ClasseConta\bin\Debug\net6.0\ClasseConta.runtimeconfig.json
+D:\Documents\POO\POO_noite\ClasseConta\bin\Debug\net6.0\ClasseConta.dll
+D:\Documents\POO\POO_noite\ClasseConta\bin\Debug\net6.0\ClasseConta.pdb
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.dll
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\refint\ClasseConta.dll
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.pdb
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ClasseConta.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\ClasseConta\obj\Debug\net6.0\ref\ClasseConta.dll
