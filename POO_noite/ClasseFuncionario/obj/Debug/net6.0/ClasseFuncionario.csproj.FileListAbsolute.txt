@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.exe
+D:\Documents\POO\POO_noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.deps.json
+D:\Documents\POO\POO_noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.runtimeconfig.json
+D:\Documents\POO\POO_noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.dll
+D:\Documents\POO\POO_noite\ClasseFuncionario\bin\Debug\net6.0\ClasseFuncionario.pdb
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.dll
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\refint\ClasseFuncionario.dll
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.pdb
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ClasseFuncionario.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\ClasseFuncionario\obj\Debug\net6.0\ref\ClasseFuncionario.dll
