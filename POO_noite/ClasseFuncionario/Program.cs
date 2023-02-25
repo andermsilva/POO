@@ -3,6 +3,7 @@
 using ClasseFuncionario;
 
 Funcionario f1 = new Funcionario();
+f1.cargo="secretaria";
 
 System.Console.WriteLine("Código: " + f1.codigo);
 System.Console.WriteLine("Nome: " + f1.nome);
