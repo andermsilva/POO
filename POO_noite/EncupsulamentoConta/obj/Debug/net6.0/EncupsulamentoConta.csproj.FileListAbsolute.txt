@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\EncupsulamentoConta\bin\Debug\net6.0\EncupsulamentoConta.exe
+D:\Documents\POO\POO_noite\EncupsulamentoConta\bin\Debug\net6.0\EncupsulamentoConta.deps.json
+D:\Documents\POO\POO_noite\EncupsulamentoConta\bin\Debug\net6.0\EncupsulamentoConta.runtimeconfig.json
+D:\Documents\POO\POO_noite\EncupsulamentoConta\bin\Debug\net6.0\EncupsulamentoConta.dll
+D:\Documents\POO\POO_noite\EncupsulamentoConta\bin\Debug\net6.0\EncupsulamentoConta.pdb
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.dll
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\refint\EncupsulamentoConta.dll
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.pdb
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\EncupsulamentoConta.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\EncupsulamentoConta\obj\Debug\net6.0\ref\EncupsulamentoConta.dll

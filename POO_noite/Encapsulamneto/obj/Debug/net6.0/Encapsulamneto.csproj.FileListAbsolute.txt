@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\Encapsulamneto\bin\Debug\net6.0\Encapsulamneto.exe
+D:\Documents\POO\POO_noite\Encapsulamneto\bin\Debug\net6.0\Encapsulamneto.deps.json
+D:\Documents\POO\POO_noite\Encapsulamneto\bin\Debug\net6.0\Encapsulamneto.runtimeconfig.json
+D:\Documents\POO\POO_noite\Encapsulamneto\bin\Debug\net6.0\Encapsulamneto.dll
+D:\Documents\POO\POO_noite\Encapsulamneto\bin\Debug\net6.0\Encapsulamneto.pdb
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.dll
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\refint\Encapsulamneto.dll
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.pdb
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\Encapsulamneto.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\Encapsulamneto\obj\Debug\net6.0\ref\Encapsulamneto.dll
