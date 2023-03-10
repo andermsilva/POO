@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\bin\Debug\net7.0\EncaosulamentoCartaoCartao.exe
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\bin\Debug\net7.0\EncaosulamentoCartaoCartao.deps.json
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\bin\Debug\net7.0\EncaosulamentoCartaoCartao.runtimeconfig.json
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\bin\Debug\net7.0\EncaosulamentoCartaoCartao.dll
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\bin\Debug\net7.0\EncaosulamentoCartaoCartao.pdb
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.AssemblyInfo.cs
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.dll
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\refint\EncaosulamentoCartaoCartao.dll
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.pdb
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\EncaosulamentoCartaoCartao.genruntimeconfig.cache
+D:\Documents\POO\POO_NOITE_VS\Exercicios\EncaosulamentoCartaoCartao\obj\Debug\net7.0\ref\EncaosulamentoCartaoCartao.dll

@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\bin\Debug\net6.0\EncapsulamentoCartaoCredito.exe
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\bin\Debug\net6.0\EncapsulamentoCartaoCredito.deps.json
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\bin\Debug\net6.0\EncapsulamentoCartaoCredito.runtimeconfig.json
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\bin\Debug\net6.0\EncapsulamentoCartaoCredito.dll
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\bin\Debug\net6.0\EncapsulamentoCartaoCredito.pdb
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.dll
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\refint\EncapsulamentoCartaoCredito.dll
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.pdb
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\EncapsulamentoCartaoCredito.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\EncapsulamentoCartaoCredito\obj\Debug\net6.0\ref\EncapsulamentoCartaoCredito.dll

@@ -1,0 +1,5 @@
+D:\Documents\POO\POO_NOITE_VS\Exercicios\obj\Debug\net6.0\Exercicios.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_NOITE_VS\Exercicios\obj\Debug\net6.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_NOITE_VS\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_NOITE_VS\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfo.cs
+D:\Documents\POO\POO_NOITE_VS\Exercicios\obj\Debug\net6.0\Exercicios.csproj.CoreCompileInputs.cache

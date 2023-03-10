@@ -43,9 +43,9 @@ namespace ClasseConta
 
         public void MostrarAtributos()
         {
-            System.Console.WriteLine("Número: " + numero);
-            System.Console.WriteLine("Titular: " + titular);
-            System.Console.WriteLine("Saldo: " + saldo);
+            Console.WriteLine("Número: " + numero);
+            Console.WriteLine("Titular: " + titular);
+            Console.WriteLine("Saldo: " + saldo);
         }
 
     }
