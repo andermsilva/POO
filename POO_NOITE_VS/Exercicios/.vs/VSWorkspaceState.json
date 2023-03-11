@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EncaosulamentoCartaoCartao"
   ],
-  "SelectedNode": "\\Exercicios.csproj",
+  "SelectedNode": "\\EncaosulamentoCartaoCartao\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
