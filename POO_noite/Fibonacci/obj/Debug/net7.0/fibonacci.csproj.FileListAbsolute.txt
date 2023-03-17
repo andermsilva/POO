@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\fibonacci\bin\Debug\net7.0\fibonacci.exe
+D:\Documents\POO\POO_noite\fibonacci\bin\Debug\net7.0\fibonacci.deps.json
+D:\Documents\POO\POO_noite\fibonacci\bin\Debug\net7.0\fibonacci.runtimeconfig.json
+D:\Documents\POO\POO_noite\fibonacci\bin\Debug\net7.0\fibonacci.dll
+D:\Documents\POO\POO_noite\fibonacci\bin\Debug\net7.0\fibonacci.pdb
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.dll
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\refint\fibonacci.dll
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.pdb
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\fibonacci.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\fibonacci\obj\Debug\net7.0\ref\fibonacci.dll
