@@ -39,14 +39,8 @@ namespace AgregacaoComposicao
             set { cliente = value; }
         }
 
-        public static int GeraCodigo { get; set; }
 
-        static Venda(){
-          GeraCodigo =10;
-        }
-        public Venda() {
-            Numero = ++ GeraCodigo;
-         }
+        public Venda() {}
 
 
        
@@ -55,10 +49,10 @@ namespace AgregacaoComposicao
 
 
             System.Console.WriteLine($"Venda: {Numero}");
-            System.Console.WriteLine("================= Clientes ====================");
+            System.Console.WriteLine("================= Cliente(s) ====================");
             foreach (Comprador cm in Cliente)
             {
-                cm.MostrarComprador();
+               cm.MostrarComprador();
                 //System.Console.WriteLine($"Código cliente: {cm.Numero}\t Nome: {cm.Nome}");
 
             }
@@ -67,13 +61,13 @@ namespace AgregacaoComposicao
             {
                 item.MostrarProduto();
 
-              //  System.Console.WriteLine($"Código produto: {item.Codigo}\t Tamanho: {item.Tamanho}\tPreço: {item.Preco:C}");
+                //System.Console.WriteLine($"Código produto: {item.Codigo}\t Tamanho: {item.Tamanho}\tPreço: {item.Preco:C}");
             }
             System.Console.WriteLine("================= Vendedor(s) ====================");
-            foreach (Vendedor ivend in saler)
+            foreach (Vendedor ivend in Saler)
             {
                 ivend.MostrarVendedor();
-                //System.Console.WriteLine($"Código produto: {ivend.Numero}\t Nome: {ivend.Nome}\tPreço: {ivend.Comissao}");
+                //System.Console.WriteLine($"Código Vendedor: {ivend.Numero}\t Nome: {ivend.Nome}\tPreço: {ivend.Comissao}");
             }
         }
 
