@@ -20,6 +20,7 @@ namespace ConstrutorFuncionario
 
         static Funcionario()
         {
+
             Codigo = 100;
         }
         public Funcionario()

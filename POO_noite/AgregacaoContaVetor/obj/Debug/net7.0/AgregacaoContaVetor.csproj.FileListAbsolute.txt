@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.exe
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.deps.json
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.runtimeconfig.json
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.dll
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.pdb
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.dll
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\refint\AgregacaoContaVetor.dll
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.pdb
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\AgregacaoContaVetor\obj\Debug\net7.0\ref\AgregacaoContaVetor.dll

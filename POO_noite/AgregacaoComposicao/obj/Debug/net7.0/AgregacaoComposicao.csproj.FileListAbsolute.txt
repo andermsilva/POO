@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\AgregacaoComposicao\bin\Debug\net7.0\AgregacaoComposicao.exe
+D:\Documents\POO\POO_noite\AgregacaoComposicao\bin\Debug\net7.0\AgregacaoComposicao.deps.json
+D:\Documents\POO\POO_noite\AgregacaoComposicao\bin\Debug\net7.0\AgregacaoComposicao.runtimeconfig.json
+D:\Documents\POO\POO_noite\AgregacaoComposicao\bin\Debug\net7.0\AgregacaoComposicao.dll
+D:\Documents\POO\POO_noite\AgregacaoComposicao\bin\Debug\net7.0\AgregacaoComposicao.pdb
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.dll
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\refint\AgregacaoComposicao.dll
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.pdb
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\AgregacaoComposicao.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\AgregacaoComposicao\obj\Debug\net7.0\ref\AgregacaoComposicao.dll
