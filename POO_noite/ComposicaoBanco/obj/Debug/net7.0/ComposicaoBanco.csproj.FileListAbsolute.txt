@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.exe
+D:\Documents\POO\POO_noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.deps.json
+D:\Documents\POO\POO_noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.runtimeconfig.json
+D:\Documents\POO\POO_noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.dll
+D:\Documents\POO\POO_noite\ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.pdb
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.dll
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\refint\ComposicaoBanco.dll
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.pdb
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\ComposicaoBanco\obj\Debug\net7.0\ref\ComposicaoBanco.dll

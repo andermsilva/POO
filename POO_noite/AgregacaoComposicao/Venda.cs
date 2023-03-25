@@ -9,9 +9,9 @@ namespace AgregacaoComposicao
     {
         private int numero;
 
-        private List<Comprador> cliente;
+        private Comprador cliente;
 
-        private List<Vendedor> saler;
+        private Vendedor saler;
 
         private List<Produto> prod;
         public int Numero
@@ -27,13 +27,13 @@ namespace AgregacaoComposicao
         }
 
 
-        public List<Vendedor> Saler
+        public Vendedor Saler
         {
             get { return saler; }
             set { saler = value; }
         }
 
-        public List<Comprador> Cliente
+        public Comprador Cliente
         {
             get { return cliente; }
             set { cliente = value; }
@@ -50,25 +50,15 @@ namespace AgregacaoComposicao
 
             System.Console.WriteLine($"Venda: {Numero}");
             System.Console.WriteLine("================= Cliente(s) ====================");
-            foreach (Comprador cm in Cliente)
-            {
-               cm.MostrarComprador();
-                //System.Console.WriteLine($"Código cliente: {cm.Numero}\t Nome: {cm.Nome}");
-
-            }
+            Cliente.MostrarComprador();
             System.Console.WriteLine("================= Prouto(s) ====================");
             foreach (Produto item in prod)
             {
                 item.MostrarProduto();
 
-                //System.Console.WriteLine($"Código produto: {item.Codigo}\t Tamanho: {item.Tamanho}\tPreço: {item.Preco:C}");
             }
             System.Console.WriteLine("================= Vendedor(s) ====================");
-            foreach (Vendedor ivend in Saler)
-            {
-                ivend.MostrarVendedor();
-                //System.Console.WriteLine($"Código Vendedor: {ivend.Numero}\t Nome: {ivend.Nome}\tPreço: {ivend.Comissao}");
-            }
+            Saler.MostrarVendedor();
         }
 
 
