@@ -61,15 +61,13 @@ namespace ComposicaoBanco
                     Saldo = Saldo - valor;
                     double aux = Saldo;
                     ChequeEspecial += aux;
-                    System.Console.WriteLine($"Transação realizada com sucesso... {valor:C}  ");
-                    System.Console.WriteLine($"Saldo atual....................... {Saldo:C}  ");
-
-
+                    System.Console.WriteLine($"Transação realizada com sucesso...{valor:C}  ");
 
                 }
                 else
                 {
-                    
+                    ChequeEspecial -= valor;
+                    Saldo -= ChequeEspecial;
                     System.Console.WriteLine("Não foi possível realizar a transação...");
 
                 }
@@ -83,7 +81,7 @@ namespace ComposicaoBanco
             System.Console.WriteLine($"Saldo:.................... {Saldo:C}");
             System.Console.WriteLine($"Especial:................. {ChequeEspecial:C}");
             double total = Saldo + ChequeEspecial;
-            System.Console.WriteLine($"Extrato consolidado....... {total:C}");
+            System.Console.WriteLine($"Extrato consololidadado... {total:C}");
         }
 
 

@@ -26,7 +26,7 @@ Banco banco = new Banco(poups, contas);
 foreach (ContaCorrete corrente in contas)
 {
     corrente.GerarExtrato();
-    corrente.Sacar(1600);
+    corrente.Sacar(1000);
     corrente.Depositar(100);
     corrente.GerarExtrato();
     corrente.MostrarConta();

@@ -33,7 +33,7 @@ namespace ComposicaoBanco
 
             if(valor <= Saldo){
                  Saldo -= valor;
-                System.Console.WriteLine($"Transação realizada com sucesso... {Saldo:C}.");
+                System.Console.WriteLine($"Transação realizada com sucesso..{Saldo}.");
                 
             }else{
                 System.Console.WriteLine("Não há saldo suficiente para a transação...");
