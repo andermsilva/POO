@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\bin\Debug\net7.0\AgrgacaoProdutoVenda.exe
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\bin\Debug\net7.0\AgrgacaoProdutoVenda.deps.json
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\bin\Debug\net7.0\AgrgacaoProdutoVenda.runtimeconfig.json
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\bin\Debug\net7.0\AgrgacaoProdutoVenda.dll
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\bin\Debug\net7.0\AgrgacaoProdutoVenda.pdb
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.dll
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\refint\AgrgacaoProdutoVenda.dll
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.pdb
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\AgrgacaoProdutoVenda.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\AgrgacaoProdutoVenda\obj\Debug\net7.0\ref\AgrgacaoProdutoVenda.dll

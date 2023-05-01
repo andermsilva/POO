@@ -31,7 +31,7 @@ namespace AgregacaoComposicao
 
         public void MostrarProduto()
         {
-            System.Console.WriteLine($"Código: {Codigo} \tTamanho: {Tamanho}\t Preço: {Preco:C}");
+            System.Console.WriteLine($"Código : {Codigo} \tTamanho: {Tamanho}\t Preço: {Preco:C}");
         }
 
        

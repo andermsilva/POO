@@ -43,7 +43,7 @@ namespace ComposicaoBanco
            System.Console.WriteLine(" ");
         }
         public void GerarRendimentos(){
-            System.Console.WriteLine("============ Rendimentos C.Poupança "+Numero+"==============");
+            System.Console.WriteLine("Rendimentos C.Poupança "+Numero+":");
 
             System.Console.WriteLine($"Saldo Anterior:............... {Saldo:C}");
             double rend = Saldo*0.03;
@@ -52,15 +52,12 @@ namespace ComposicaoBanco
             Saldo += rend;
             System.Console.WriteLine($"Saldo Total:.................. {Saldo:C}");
 
-            System.Console.WriteLine(" ");
         }
 
         public void MostrarPoupanca(){
-            System.Console.WriteLine("================== Poupnça ==================");
+            System.Console.WriteLine("================== Conta Poupnça ==================");
             System.Console.WriteLine("número Poupança: "+Numero);
             System.Console.WriteLine($"Saldo: {Saldo:C}");
-            System.Console.WriteLine(" ");
-
         }
 
     }

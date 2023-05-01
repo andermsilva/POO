@@ -24,39 +24,27 @@ namespace ComposicaoBanco
 
         public void MostrarBanco()
         {
-            System.Console.WriteLine("============== Conta Poupança ================");
+            //System.Console.WriteLine("============== Conta Poupança ================");
             foreach (Poupanca item in Poups)
             {
                 item.MostrarPoupanca();
-                System.Console.WriteLine("====================================");
-
             }
-            System.Console.WriteLine("============== Conta Corrente= =======================");
+           // System.Console.WriteLine("============== Conta Corrente= =======================");
             foreach (ContaCorrete item in Conta)
             {
                 item.MostrarConta();
-                System.Console.WriteLine("=======================================================");
-
             }
         }
-
         ~Banco()
         {
-
             foreach (ContaCorrete item in Conta)
             {
                 if (item.Saldo < 0 && item.ChequeEspecial < item.Saldo)
                 {
                     Conta = null;
-                   
-
                     System.Console.WriteLine("Entrou em concordata...");
                 }
             }
-
-
-
-
         }
     }
 }
