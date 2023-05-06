@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\FuncionarioPoli\bin\Debug\net7.0\FuncionarioPoli.exe
+D:\Documents\POO\POO_noite\FuncionarioPoli\bin\Debug\net7.0\FuncionarioPoli.deps.json
+D:\Documents\POO\POO_noite\FuncionarioPoli\bin\Debug\net7.0\FuncionarioPoli.runtimeconfig.json
+D:\Documents\POO\POO_noite\FuncionarioPoli\bin\Debug\net7.0\FuncionarioPoli.dll
+D:\Documents\POO\POO_noite\FuncionarioPoli\bin\Debug\net7.0\FuncionarioPoli.pdb
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.dll
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\refint\FuncionarioPoli.dll
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.pdb
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\FuncionarioPoli.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\FuncionarioPoli\obj\Debug\net7.0\ref\FuncionarioPoli.dll

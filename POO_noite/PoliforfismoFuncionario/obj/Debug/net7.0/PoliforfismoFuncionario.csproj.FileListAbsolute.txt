@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\bin\Debug\net7.0\PoliforfismoFuncionario.exe
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\bin\Debug\net7.0\PoliforfismoFuncionario.deps.json
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\bin\Debug\net7.0\PoliforfismoFuncionario.runtimeconfig.json
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\bin\Debug\net7.0\PoliforfismoFuncionario.dll
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\bin\Debug\net7.0\PoliforfismoFuncionario.pdb
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.dll
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\refint\PoliforfismoFuncionario.dll
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.pdb
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\PoliforfismoFuncionario.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\PoliforfismoFuncionario\obj\Debug\net7.0\ref\PoliforfismoFuncionario.dll

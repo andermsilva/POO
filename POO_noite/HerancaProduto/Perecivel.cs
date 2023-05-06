@@ -25,11 +25,12 @@ namespace HerancaProduto
             Data_Fabricacao = dtf;
         }
 
-        public void Mostrar(){
+        public override void Mostrar(){
             base.Mostrar();
             System.Console.WriteLine($"Validade: {Data_Validade}\tFabricação: {Data_Fabricacao} \tLote: {Lote}");
 
         }
+       
     }
 
 }
