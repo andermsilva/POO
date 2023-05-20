@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\poo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.exe
+C:\Users\aluno\Documents\poo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.deps.json
+C:\Users\aluno\Documents\poo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\aluno\Documents\poo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.dll
+C:\Users\aluno\Documents\poo\ClasseAbstrata\bin\Debug\net6.0\ClasseAbstrata.pdb
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.dll
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\refint\ClasseAbstrata.dll
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.pdb
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ClasseAbstrata.genruntimeconfig.cache
+C:\Users\aluno\Documents\poo\ClasseAbstrata\obj\Debug\net6.0\ref\ClasseAbstrata.dll

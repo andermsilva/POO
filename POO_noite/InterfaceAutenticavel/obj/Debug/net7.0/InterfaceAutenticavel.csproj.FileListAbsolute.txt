@@ -1,0 +1,15 @@
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.exe
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.deps.json
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.runtimeconfig.json
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.dll
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.pdb
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.AssemblyInfo.cs
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.dll
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\refint\InterfaceAutenticavel.dll
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.pdb
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.genruntimeconfig.cache
+D:\Documents\POO\POO_noite\InterfaceAutenticavel\obj\Debug\net7.0\ref\InterfaceAutenticavel.dll
